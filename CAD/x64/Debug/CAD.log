@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\Desktop\CAD_fzc\CAD\源.cpp(261,47): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\Desktop\CAD_fzc\CAD\源.cpp(261,35): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\Desktop\CAD_fzc\CAD\源.cpp(261,23): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\Desktop\CAD_fzc\CAD\源.cpp(544,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\CAD_fzc\CAD\源.cpp(545,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\CAD_fzc\CAD\源.cpp(575,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\CAD_fzc\CAD\源.cpp(576,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\CAD_fzc\CAD\源.cpp(581,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\CAD_fzc\CAD\源.cpp(158): warning C4715: “show_face”: 不是所有的控件路径都返回值
+D:\Desktop\CAD_fzc\CAD\源.cpp(200): warning C4715: “getPrimitiveType”: 不是所有的控件路径都返回值
+  CAD.vcxproj -> D:\Desktop\CAD_fzc\x64\Debug\CAD.exe
